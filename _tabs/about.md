@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+My name is Stuart and I am a Cybersecurity Threat Researcher and Analyst with an interest in malware and threat intelligence. I will use this site to document my findings and obsersvations and I welcome any feedback. Thanks for visting my blog 🙏🏼.
